@@ -1,0 +1,25 @@
+Location,Food Item,Surplus Quantity (kg),Date,Time of Day,Day of Week,Weather,Charity Location,Delivery Method,Storage Capacity (kg),Donations Received (kg),Surplus Source,Time Taken to Deliver (hrs),Cost of Storage (SGD),Food Type Category,Volume of Surplus (m3),Donation Frequency
+East Coast,Seafood,200,2024-02-01,Afternoon,Thursday,Foggy,Food Bank A,Van,500,50,Supermarket,2,30,Perishable,0.15,Weekly
+Orchard,Vegetables,100,2024-02-02,Morning,Friday,Clear,NGO Y,Van,400,60,Restaurant,1.5,40,Perishable,0.12,Ad-Hoc
+Bukit Timah,Fruits,150,2024-02-02,Evening,Friday,Cloudy,Food Bank C,Drone,600,120,Market,3,25,Perishable,0.18,Weekly
+Changi,Canned Goods,120,2024-02-03,Morning,Saturday,Thunderstorms,Food Bank A,Van,700,40,Event,2.5,50,Non-perishable,0.16,Weekly
+Tampines,Seafood,180,2024-02-03,Afternoon,Saturday,Clear,Food Bank B,Van,550,100,Supermarket,1.8,35,Perishable,0.14,Ad-Hoc
+Paya Lebar,Herbs,60,2024-02-04,Evening,Sunday,Foggy,NGO Z,Van,450,30,Restaurant,2,20,Perishable,0.09,Weekly
+Jurong East,Vegetables,90,2024-02-04,Morning,Sunday,Clear,Food Bank A,Van,500,80,Market,2,30,Perishable,0.1,Ad-Hoc
+North East,Herbs,70,2024-02-05,Afternoon,Monday,Cloudy,Food Bank B,Van,500,60,Supermarket,1.5,25,Perishable,0.08,Weekly
+South West,Fruits,140,2024-02-06,Morning,Tuesday,Rainy,Food Bank C,Drone,600,100,Event,4,40,Perishable,0.13,Weekly
+Central,Seafood,220,2024-02-07,Evening,Wednesday,Foggy,Food Bank A,Van,550,50,Supermarket,2.5,60,Perishable,0.17,Ad-Hoc
+East Coast,Seafood,250,2024-02-08,Morning,Thursday,Clear,Food Bank A,Van,600,120,Restaurant,2,35,Perishable,0.2,Weekly
+Orchard,Vegetables,110,2024-02-08,Afternoon,Thursday,Cloudy,NGO Y,Van,400,90,Market,1.5,40,Perishable,0.13,Weekly
+Bukit Timah,Fruits,160,2024-02-09,Evening,Friday,Foggy,Food Bank C,Drone,700,150,Supermarket,2.5,50,Perishable,0.19,Ad-Hoc
+Tampines,Canned Goods,130,2024-02-09,Morning,Saturday,Clear,Food Bank A,Van,700,80,Event,2,45,Non-perishable,0.17,Weekly
+Paya Lebar,Herbs,65,2024-02-10,Afternoon,Sunday,Thunderstorms,NGO Z,Van,450,35,Restaurant,2,30,Perishable,0.1,Weekly
+Jurong East,Fruits,100,2024-02-11,Morning,Monday,Cloudy,Food Bank A,Van,500,90,Supermarket,2,35,Perishable,0.12,Ad-Hoc
+North East,Seafood,210,2024-02-11,Afternoon,Monday,Rainy,Food Bank B,Van,550,100,Supermarket,3,50,Perishable,0.16,Weekly
+South West,Vegetables,80,2024-02-12,Evening,Tuesday,Clear,Food Bank C,Drone,650,70,Market,2,40,Perishable,0.1,Ad-Hoc
+Central,Fruits,130,2024-02-13,Morning,Wednesday,Foggy,Food Bank A,Van,600,110,Event,3,45,Perishable,0.14,Weekly
+East Coast,Herbs,55,2024-02-14,Afternoon,Thursday,Clear,NGO Z,Van,400,50,Supermarket,1.5,20,Perishable,0.09,Weekly
+Orchard,Seafood,240,2024-02-14,Evening,Thursday,Cloudy,Food Bank B,Van,650,130,Market,3,50,Perishable,0.18,Ad-Hoc
+Bukit Timah,Canned Goods,100,2024-02-15,Morning,Friday,Thunderstorms,Food Bank A,Van,500,40,Restaurant,2.5,45,Non-perishable,0.12,Weekly
+Changi,Fruits,150,2024-02-15,Afternoon,Friday,Clear,Food Bank C,Drone,700,120,Supermarket,1.5,40,Perishable,0.16,Weekly
+Tampines,Seafood,220,2024-02-16,Evening,Saturday,Rainy,Food Bank B,Van,500,90,Event,2,30,Perishable,0.2,Ad-Hoc
